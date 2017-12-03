@@ -1,6 +1,5 @@
 class Cat
   attr_accessor :name
-  instantiate(name)
 end
 
 def instantiate(cat)
@@ -8,3 +7,5 @@ def instantiate(cat)
     puts "meow!"
   end
 end
+
+instantiate(name)
