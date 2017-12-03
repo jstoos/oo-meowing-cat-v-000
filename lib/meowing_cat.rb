@@ -1,6 +1,6 @@
 class Cat
   attr_accessor :name
-
+  instantiate(name)
 end
 
 def instantiate(cat)
