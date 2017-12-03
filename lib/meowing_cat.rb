@@ -6,6 +6,6 @@ def name=(name)
   @name = name
 end
 
-def meow(@name)
+def meow
   puts "meow!"
 end
