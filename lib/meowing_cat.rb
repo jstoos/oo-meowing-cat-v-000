@@ -6,4 +6,4 @@ def meow
   puts "meow!"
 end
 
-meow.name
+name.meow
